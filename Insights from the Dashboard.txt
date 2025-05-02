@@ -1,0 +1,13 @@
+Insights from the Dashboard:
+
+High Sales Contribution from Bars Category:
+The "Bars" category dominates across all teams (Delish, Yummies, Juicies, Tempo), contributing the highest Sum of Amount compared to Bites and Other categories. Especially, the Delish and Juicies teams show a particularly strong focus on Bars.
+
+Geographic Distribution is Even:
+The pie chart indicates an equal distribution of 670 records (17% each) across all five regions — Australia, Canada, India, New Zealand, and the fifth region (not fully visible but likely the USA or UK based on context).
+
+Quarterly Sales Trend is Consistent:
+Across all four quarters, the sales (in terms of Box count) are fairly consistent, with Delish and Juicies contributing prominently every quarter, as seen in the stacked bar visuals. There’s no major dip or spike, indicating stable demand throughout the year.
+
+Australia - Key Contributor in the Sampled Data:
+The detailed data table shows repeated entries for Australia under the Delish team with large transaction amounts (e.g., ₹13,007.25 on 14 Sept 2023), suggesting Australia is a major revenue source in this snapshot.
